@@ -1,0 +1,25 @@
+{
+  "name": "expressmovies",
+  "version": "1.0.0",
+  "description": "app for movie fans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crhubhub/appmovies.git"
+  },
+  "keywords": [
+    "app",
+    "movie",
+    "movies",
+    "etc"
+  ],
+  "author": "clo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crhubhub/appmovies/issues"
+  },
+  "homepage": "https://github.com/crhubhub/appmovies#readme"
+}
